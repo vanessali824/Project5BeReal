@@ -12,8 +12,8 @@ The following **required** functionality is completed:
 
 - [X] User can register a new account
 - [X] User can log in with newly created account
-- [ ] App has a feed of posts when user logs in
-- [ ] User can upload a new post which takes in a picture from photo library and a caption	
+- [X] App has a feed of posts when user logs in
+- [X] User can upload a new post which takes in a picture from photo library and a caption	
  
 The following **optional** features are implemented:
 
@@ -32,10 +32,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/LITM0HO.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...  EZGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
